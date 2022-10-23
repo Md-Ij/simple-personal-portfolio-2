@@ -1,6 +1,6 @@
 # Simple Personal Portfolio-2 Create By ( ***Html,Css,Js*** ) 👩‍💻
 ***
-## Project Demo [▶](https://md-ij.github.io/simple-personal-portfolio-2/ 'Click 👉 --> ▶ For Live Project Demo ')
+## Project Demo [▶](https://md-ij.github.io/simple-personal-portfolio-2/ 'Click 👉 ▶ For Live Project Demo ')
 *** 
 ## *Full Page ScreenShot* ✅
 <div class='img'>
