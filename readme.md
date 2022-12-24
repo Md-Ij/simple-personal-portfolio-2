@@ -27,10 +27,3 @@
 7. **Contact Me Section**
 8. **Footer Section**
 ***
-<style>
-  .img{
-    border:.3rem solid #22577a;
-    border-radius:.3rem;
-    padding:.2rem;
-  }
-  </style>
